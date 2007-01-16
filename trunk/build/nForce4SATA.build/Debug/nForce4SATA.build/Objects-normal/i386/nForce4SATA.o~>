@@ -1,0 +1,505 @@
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:44:25: error: AppleK2SATA.h: No such file or directory
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'AppleK2SATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'MetaClass' does not name a type
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'AppleK2SATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'AppleK2SATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'gMetaClass' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'AppleK2SATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'gMetaClass' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'AppleK2SATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: ISO C++ forbids declaration of 'AppleK2SATA' with no type
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'int AppleK2SATA(const OSMetaClass*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: only constructors take base initializers
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: expected constructor, destructor, or type conversion before '::' token
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: non-member function 'const OSMetaClass* getMetaClass()' cannot have cv-qualifier
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'const OSMetaClass* getMetaClass()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'gMetaClass' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: ISO C++ forbids declaration of 'MetaClass' with no type
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'int MetaClass()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: only constructors take base initializers
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: ISO C++ forbids applying 'sizeof' to an expression of function type
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: non-member function 'OSObject* alloc()' cannot have cv-qualifier
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'OSObject* alloc()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: expected type-specifier before 'AppleK2SATA'
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: cannot convert 'int*' to 'OSObject*' in return
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: expected ';' before 'AppleK2SATA'
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: warning: statement is a reference, not call, to function 'AppleK2SATA'
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: ISO C++ forbids declaration of 'AppleK2SATA' with no type
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'int AppleK2SATA()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: only constructors take base initializers
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: error: 'gMetaClass' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:120: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'bool init(OSDictionary*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:127: error: 'ioBaseAddrMap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:130: error: '_devIntSrc' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:131: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:132: error: 'isBusOnline' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:133: error: 'isEmptyBay' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:134: error: 'isCriticalSection' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:135: error: 'isSleeping' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:136: error: 'pmRootDomain' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:137: error: 'systemIsSleeping' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:138: error: 'cleanupSystemSleep' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:141: error: 'isHotSwap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:144: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:163: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOService* probe(IOService*, SInt32*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:203: error: invalid use of 'this' in non-member function
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:219: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'bool start(IOService*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:230: error: invalid use of 'this' in non-member function
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:241: error: 'setProperty' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:244: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:252: error: 'createDeviceInterrupt' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:262: error: 'isEmptyBay' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:266: error: '_devInfo' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:270: error: invalid use of 'this' in non-member function
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:273: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:282: error: invalid use of 'this' in non-member function
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:283: error: '_nub' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:300: error: 'isHotSwap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:301: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:310: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:321: error: 'isHotSwap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:323: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:222: warning: unused variable 'powerStatesK2'
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:340: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'void free()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:344: error: 'ioBaseAddrMap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:350: error: '_devIntSrc' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:361: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:368: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn setPowerState(long unsigned int, IOService*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:371: error: 'isSleeping' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:380: error: 'isSleeping' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:386: error: 'cleanupSystemSleep' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:392: error: 'SATAStatus' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:401: error: '_nub' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:406: error: 'handleRemovalIRQ' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:411: error: 'isEmptyBay' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:416: error: 'handleEmptyBayIRQ' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:423: error: 'SATAError' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:427: error: 'isEmptyBay' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:429: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:433: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:447: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn powerStateWillChangeTo(IOPMPowerFlags, long unsigned int, IOService*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:449: error: 'pmRootDomain' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:450: error: 'systemIsSleeping' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:458: error: 'savedSIMValue' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:458: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:469: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn powerStateDidChangeTo(IOPMPowerFlags, long unsigned int, IOService*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:471: error: 'pmRootDomain' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:472: error: 'systemIsSleeping' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:482: error: 'cleanupSystemSleep' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:484: error: 'changePowerStateTo' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:499: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'bool createDeviceInterrupt()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:505: error: '_devIntSrc' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:505: error: 'IOFilterInterruptEventSource' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:506: error: invalid use of 'this' in non-member function
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:507: error: 'IOInterruptEventSource' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:507: error: 'Action' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:507: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:507: error: 'sDeviceInterruptOccurred' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:508: error: 'IOFilterInterruptEventSource' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:508: error: 'Filter' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:508: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:508: error: 'sFilterInterrupt' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:509: error: 'getProvider' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:510: error: 'filterInterruptEventSource' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:515: error: 'getWorkLoop' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:536: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:536: error: 'IOInterruptEventSource' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'void sDeviceInterruptOccurred(OSObject*, int*, int)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:538: error: 'self' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:538: error: expected primary-expression before ')' token
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:538: error: expected `;' before 'owner'
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:552: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:552: error: 'IOFilterInterruptEventSource' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'bool sFilterInterrupt(OSObject*, int*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:554: error: 'self' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:554: error: expected primary-expression before ')' token
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:554: error: expected `;' before 'owner'
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:567: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:567: error: 'IOFilterInterruptEventSource' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:567: error: expected primary-expression before ')' token
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:568: error: expected ',' or ';' before '{' token
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:620: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn handleDeviceInterrupt()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:625: error: 'isEmptyBay' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:625: error: 'systemIsSleeping' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:628: error: 'handleEmptyBayIRQ' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:631: error: 'isHotSwap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:631: error: 'systemIsSleeping' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:631: error: 'handleRemovalIRQ' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:638: error: '_currentCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:646: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:649: error: '_bmStatusReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:663: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:663: error: non-member function 'IOWorkLoop* getWorkLoop()' cannot have cv-qualifier
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOWorkLoop* getWorkLoop()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:668: error: '_workLoop' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:690: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'void handleTimeout()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:692: error: 'isBusOnline' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:700: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:703: error: '_bmStatusReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:706: error: 'SATAError' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:712: error: '_prdTable' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:718: error: '_bmCommandReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:724: error: 'stopDMA' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:726: error: '_tfStatusCmdReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:732: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:744: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'bool configureTFPointers()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:749: error: 'getProvider' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:752: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:756: error: 'ioBaseAddrMap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:764: error: 'GInterruptStatus' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:771: error: 'interruptBitMask' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:795: error: '_tfDataReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:796: error: '_tfFeatureReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:797: error: '_tfSCountReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:798: error: '_tfSectorNReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:799: error: '_tfCylLoReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:800: error: '_tfCylHiReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:801: error: '_tfSDHReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:802: error: '_tfStatusCmdReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:804: error: 'StatusWide' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:806: error: '_tfAltSDevCReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:808: error: '_bmCommandReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:809: error: '_bmStatusReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:810: error: '_bmPRDAddresReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:812: error: 'SATAStatus' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:813: error: 'SATAError' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:814: error: 'SATAControl' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:815: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:817: error: 'SICR1' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:818: error: 'SICR2' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:846: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn provideBusInfo(IOATABusInfo*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:859: error: 'isHotSwap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:879: error: '_devInfo' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:882: error: '_devInfo' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:898: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn getConfig(IOATADevConfig*, UInt32)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:916: error: 'busTimings' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:920: error: '_devInfo' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:934: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn selectConfig(IOATADevConfig*, UInt32)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:993: error: '_devInfo' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1009: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn selectIOTimerValue(IOATADevConfig*, UInt32)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1017: error: 'busTimings' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1032: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1048: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn startDMA()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1054: error: 'stopDMA' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1060: error: '_dmaState' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1060: error: 'kATADMAStarting' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1063: error: 'createChannelCommands' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1075: error: '_currentCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1076: error: 'activateDMAEngine' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1084: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn issueCommand()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1088: error: '_currentCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1099: error: '_currentCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1115: error: '_currentCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1120: error: '_tfSDHReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1121: error: '_tfFeatureReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1122: error: '_tfSCountReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1123: error: '_tfSectorNReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1124: error: '_tfCylLoReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1125: error: '_tfCylHiReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1128: error: '_tfStatusCmdReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1136: error: '_tfSDHReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1139: error: '_tfFeatureReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1140: error: '_tfSCountReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1141: error: '_tfSectorNReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1142: error: '_tfCylLoReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1143: error: '_tfCylHiReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1146: error: '_tfStatusCmdReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1174: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn handleQueueFlush()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1177: error: '_queueState' was not declared in this scope
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:159: error: 'IOATAController::<anonymous enum> IOATAController::kQueueLocked' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1179: error: within this context
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1183: error: 'isBusOnline' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1192: error: 'dequeueFirstCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1212: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'bool checkTimeout()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1214: error: 'isBusOnline' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1221: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1231: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn executeCommand(IOATADevice*, IOATABusCommand*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1233: error: 'isBusOnline' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1238: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1245: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn handleCommand(void*, void*, void*, void*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1250: error: 'isBusOnline' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1257: error: 'kATADone' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1264: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1273: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'void cleanUpAction(OSObject*, void*, void*, void*, void*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1281: error: 'self' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1281: error: expected primary-expression before ')' token
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1281: error: expected `;' before 'owner'
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1287: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'void cleanUpBus()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1289: error: '_currentCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1300: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'UInt32 scanForDrives()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1302: error: 'SATAStatus' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1304: error: 'isEmptyBay' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1312: error: 'isHotSwap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1320: error: 'isHotSwap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1333: error: 'isHotSwap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1343: error: '_tfAltSDevCReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1348: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1362: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1365: error: '_tfCylLoReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1366: error: '_tfCylHiReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1367: error: '_tfSCountReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1368: error: '_tfSectorNReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1372: error: 'isHotSwap' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1386: error: 'isBusOnline' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1391: error: 'SATAControl' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1403: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn selectDevice(ataUnitID)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1405: error: '_currentCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1441: error: '_devInfo' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1452: error: 'waitForU8Status' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1457: error: '_tfStatusCmdReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1476: error: '_selectedUnit' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1485: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn registerAccess(bool)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1487: error: '_currentCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1500: error: '_tfFeatureReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1504: error: '_tfFeatureReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1510: error: '_tfFeatureReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1514: error: '_tfFeatureReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1526: error: '_tfSCountReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1530: error: '_tfSCountReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1537: error: '_tfSCountReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1540: error: '_tfSCountReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1552: error: '_tfSectorNReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1555: error: '_tfSectorNReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1562: error: '_tfSectorNReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1565: error: '_tfSectorNReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1577: error: '_tfCylLoReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1581: error: '_tfCylLoReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1588: error: '_tfCylLoReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1591: error: '_tfCylLoReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1604: error: '_tfCylHiReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1608: error: '_tfCylHiReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1614: error: '_tfCylHiReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1617: error: '_tfCylHiReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1627: error: '_tfSDHReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1629: error: '_tfSDHReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1639: error: '_tfAltSDevCReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1641: error: '_tfAltSDevCReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1650: error: '_tfDataReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1654: error: '_tfDataReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1663: error: '_tfStatusCmdReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1665: error: '_tfStatusCmdReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1677: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn softResetBus(bool)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1684: error: 'SICR1' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1692: error: 'IOPCIATA' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1704: error: '_tfAltSDevCReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1718: error: '_selectedUnit' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1731: error: '_devInfo' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1752: error: '_tfStatusCmdReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1793: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn synchronousIO()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1797: error: '_tfAltSDevCReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1802: error: 'asyncCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1806: error: '_currentCommand' was not declared in this scope
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:171: error: 'IOATAController::transState IOATAController::kATAComplete' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1806: error: within this context
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1814: error: 'waitForU8Status' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1823: error: '_currentCommand' was not declared in this scope
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:168: error: 'IOATAController::transState IOATAController::kATAPICmd' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1823: error: within this context
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1826: error: 'writePacket' was not declared in this scope
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:169: error: 'IOATAController::transState IOATAController::kATADataTx' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1835: error: within this context
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:170: error: 'IOATAController::transState IOATAController::kATAStatus' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1840: error: within this context
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:171: error: 'IOATAController::transState IOATAController::kATAComplete' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1846: error: within this context
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1853: error: '_currentCommand' was not declared in this scope
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:169: error: 'IOATAController::transState IOATAController::kATADataTx' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1853: error: within this context
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:169: error: 'IOATAController::transState IOATAController::kATADataTx' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1855: error: within this context
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1857: error: 'asyncData' was not declared in this scope
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:171: error: 'IOATAController::transState IOATAController::kATAComplete' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1860: error: within this context
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1869: error: 'waitForU8Status' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1875: error: '_currentCommand' was not declared in this scope
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:170: error: 'IOATAController::transState IOATAController::kATAStatus' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1875: error: within this context
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1877: error: 'asyncStatus' was not declared in this scope
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:171: error: 'IOATAController::transState IOATAController::kATAComplete' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1878: error: within this context
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1884: error: '_tfStatusCmdReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1889: error: '_currentCommand' was not declared in this scope
+/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Headers/IOKit/ata/IOATAController.h:171: error: 'IOATAController::transState IOATAController::kATAComplete' is protected
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1889: error: within this context
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1891: error: 'completeIO' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1910: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'bool allocDMAChannel()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1913: error: '_bmCommandReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1914: error: '_bmStatusReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1915: error: '_bmPRDAddresReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1925: error: '_prdTable' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1925: error: 'PRD' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1925: error: expected primary-expression before ')' token
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1925: error: expected `;' before 'IOMallocContiguous'
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1937: error: '_DMACursor' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1937: error: 'IONaturalMemoryCursor' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1940: error: 'withSpecification' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1945: error: 'freeDMAChannel' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1952: error: 'initATADMAChains' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1965: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'bool freeDMAChannel()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1968: error: '_prdTable' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1971: error: 'stopDMA' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1975: error: 'PRD' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1990: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1990: error: variable or field 'initATADMAChains' declared void
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1990: error: 'PRD' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1990: error: 'descPtr' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:1991: error: expected ',' or ';' before '{' token
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2014: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn createChannelCommands()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2016: error: '_currentCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2017: error: 'IOMemoryCursor' has not been declared
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2017: error: 'PhysicalSegment' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2017: error: expected `;' before 'physSegment'
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2039: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2052: error: '_DMACursor' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2055: error: 'physSegment' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2066: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2094: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2099: error: '_prdTable' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2099: error: 'kContinue_PRD' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2099: error: 'setPRD' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2107: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2108: error: '_dmaState' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2108: error: 'kATADMAError' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2118: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2122: error: '_prdTable' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2122: error: 'kLast_PRD' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2122: error: 'kContinue_PRD' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2122: error: 'setPRD' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2128: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2129: error: '_dmaState' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2129: error: 'kATADMAError' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2140: error: '_dmaState' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2140: error: 'kATADMAStatus' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2152: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2161: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn writePacket()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2164: error: '_currentCommand' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2187: error: 'waitForU8Status' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2193: error: '_tfAltSDevCReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2227: error: '_tfDataReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2231: error: '_tfAltSDevCReg' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2240: error: 'waitForU8Status' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2249: error: 'activateDMAEngine' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2258: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn handleEmptyBayIRQ()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2263: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2270: error: 'SATAError' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2273: error: 'SATAControl' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2280: error: 'SATAStatus' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2307: error: '_devInfo' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2310: error: 'isEmptyBay' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2311: error: 'isBusOnline' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2314: error: 'createNubsThread' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2314: error: invalid use of 'this' in non-member function
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2325: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'IOReturn handleRemovalIRQ()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2328: error: 'SATAError' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2333: error: 'stopDMA' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2335: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2340: error: 'SATAStatus' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2354: error: 'isBusOnline' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2358: error: '_nub' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2363: error: 'isEmptyBay' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2372: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2381: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2388: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'void createNubsThread(void*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2390: error: 'self' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2390: error: expected primary-expression before ')' token
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2390: error: expected `;' before 'param'
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: At global scope:
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2397: error: 'AppleK2SATA' is not a class or namespace
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'void createNubs()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2402: error: invalid use of 'this' in non-member function
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2402: error: '_devInfo' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2406: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2411: error: 'SATAError' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2414: error: 'SIMRegister' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2422: error: invalid use of 'this' in non-member function
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2424: error: '_nub' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:2426: error: 'busChildNumber' was not declared in this scope
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'int AppleK2SATA(const OSMetaClass*)':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: warning: control reaches end of non-void function
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'int MetaClass()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: warning: control reaches end of non-void function
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp: In function 'int AppleK2SATA()':
+/Users/medevil/Sviluppo/nForce4SATA/nForce4SATA.cpp:115: warning: control reaches end of non-void function

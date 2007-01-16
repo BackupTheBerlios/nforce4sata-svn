@@ -1,0 +1,1695 @@
+// !$*UTF8*$!
+{
+	011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {687, 1582}}";
+			sepNavSelRange = "{1496, 0}";
+			sepNavVisRect = "{{0, 233}, {687, 503}}";
+			sepNavWindowFrame = "{{75, 255}, {1062, 469}}";
+		};
+	};
+	011F3D760B5A3B4F003C7984 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+		);
+	};
+	011F3DFC0B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: _NFORCESATAHARDWARE_";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1425;
+		vrLoc = 0;
+	};
+	011F3DFD0B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: len";
+		rLen = 0;
+		rLoc = 11901;
+		rType = 0;
+		vrLen = 1247;
+		vrLoc = 481;
+	};
+	011F3DFE0B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: interruptOccurred";
+		rLen = 0;
+		rLoc = 4021;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 2902;
+	};
+	011F3DFF0B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: 72";
+		rLen = 243;
+		rLoc = 2224;
+		rType = 0;
+		vrLen = 1236;
+		vrLoc = 1704;
+	};
+	011F3E000B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: getWorkLoop";
+		rLen = 0;
+		rLoc = 5415;
+		rType = 0;
+		vrLen = 621;
+		vrLoc = 1919;
+	};
+	011F3E010B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: 83";
+		rLen = 968;
+		rLoc = 2538;
+		rType = 0;
+		vrLen = 1372;
+		vrLoc = 2496;
+	};
+	011F3E020B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: IOService";
+		rLen = 0;
+		rLoc = 2728;
+		rType = 0;
+		vrLen = 817;
+		vrLoc = 2853;
+	};
+	011F3E030B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: 119";
+		rLen = 276;
+		rLoc = 3863;
+		rType = 0;
+		vrLen = 1225;
+		vrLoc = 2899;
+	};
+	011F3E040B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 135";
+		rLen = 0;
+		rLoc = 11201;
+		rType = 0;
+		vrLen = 949;
+		vrLoc = 2858;
+	};
+	011F3E050B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = nForceSATA;
+		rLen = 10;
+		rLoc = 1332;
+		rType = 0;
+		vrLen = 773;
+		vrLoc = 931;
+	};
+	011F3E060B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 187";
+		rLen = 0;
+		rLoc = 11912;
+		rType = 0;
+		vrLen = 800;
+		vrLoc = 3377;
+	};
+	011F3E070B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: fInterruptBitMask";
+		rLen = 0;
+		rLoc = 1778;
+		rType = 0;
+		vrLen = 1195;
+		vrLoc = 1702;
+	};
+	011F3E080B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 187";
+		rLen = 0;
+		rLoc = 11912;
+		rType = 0;
+		vrLen = 737;
+		vrLoc = 3190;
+	};
+	011F3E090B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = DEBUG_LOG;
+		rLen = 9;
+		rLoc = 1158;
+		rType = 0;
+		vrLen = 1272;
+		vrLoc = 766;
+	};
+	011F3E0A0B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: start";
+		rLen = 0;
+		rLoc = 2442;
+		rType = 0;
+		vrLen = 929;
+		vrLoc = 1341;
+	};
+	011F3E0B0B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: fInterruptStatus";
+		rLen = 91;
+		rLoc = 1752;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 1412;
+	};
+	011F3E0C0B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: start";
+		rLen = 0;
+		rLoc = 2442;
+		rType = 0;
+		vrLen = 925;
+		vrLoc = 1341;
+	};
+	011F3E0D0B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: fInterruptStatus";
+		rLen = 91;
+		rLoc = 1752;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 1412;
+	};
+	011F3E0E0B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 245";
+		rLen = 0;
+		rLoc = 11901;
+		rType = 0;
+		vrLen = 1180;
+		vrLoc = 2890;
+	};
+	011F3E0F0B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: 127";
+		rLen = 0;
+		rLoc = 4166;
+		rType = 0;
+		vrLen = 1011;
+		vrLoc = 1417;
+	};
+	011F3E100B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: _NFORCESATAHARDWARE_";
+		rLen = 0;
+		rLoc = 1015;
+		rType = 0;
+		vrLen = 1425;
+		vrLoc = 0;
+	};
+	011F3E110B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: interruptOccurred";
+		rLen = 0;
+		rLoc = 4021;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 2902;
+	};
+	011F3E120B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: len";
+		rLen = 0;
+		rLoc = 11901;
+		rType = 0;
+		vrLen = 1247;
+		vrLoc = 481;
+	};
+	011F3E130B5A644A003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: interruptOccurred";
+		rLen = 0;
+		rLoc = 4021;
+		rType = 0;
+		vrLen = 1246;
+		vrLoc = 2882;
+	};
+	011F3E3C0B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: kMaxDriveCount";
+		rLen = 0;
+		rLoc = 2051;
+		rType = 0;
+		vrLen = 1339;
+		vrLoc = 1144;
+	};
+	011F3E3D0B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: interruptFilter";
+		rLen = 0;
+		rLoc = 4114;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 2942;
+	};
+	011F3E3E0B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = NULL;
+		rLen = 4;
+		rLoc = 7974;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 5536;
+	};
+	011F3E3F0B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: interruptOccurred";
+		rLen = 0;
+		rLoc = 4021;
+		rType = 0;
+		vrLen = 1246;
+		vrLoc = 2882;
+	};
+	011F3E400B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = kMaxATANubs;
+		rLen = 14;
+		rLoc = 4125;
+		rType = 0;
+		vrLen = 1049;
+		vrLoc = 3119;
+	};
+	011F3E410B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: 52";
+		rLen = 0;
+		rLoc = 2028;
+		rType = 0;
+		vrLen = 1348;
+		vrLoc = 1092;
+	};
+	011F3E420B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 120";
+		rLen = 0;
+		rLoc = 4128;
+		rType = 0;
+		vrLen = 1051;
+		vrLoc = 3119;
+	};
+	011F3E430B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: kMaxDriveCount";
+		rLen = 0;
+		rLoc = 2051;
+		rType = 0;
+		vrLen = 1391;
+		vrLoc = 1092;
+	};
+	011F3E440B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 214";
+		rLen = 0;
+		rLoc = 7862;
+		rType = 0;
+		vrLen = 714;
+		vrLoc = 5273;
+	};
+	011F3E450B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: kMaxDriveCount";
+		rLen = 0;
+		rLoc = 2051;
+		rType = 0;
+		vrLen = 1339;
+		vrLoc = 1144;
+	};
+	011F3E460B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = "nForceSATA.h: interruptFilter";
+		rLen = 0;
+		rLoc = 4114;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 2942;
+	};
+	011F3E470B5BFDE3003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: stopDMA";
+		rLen = 0;
+		rLoc = 10314;
+		rType = 0;
+		vrLen = 925;
+		vrLoc = 7227;
+	};
+	011F3E4A0B5BFFFF003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 302";
+		rLen = 0;
+		rLoc = 10313;
+		rType = 0;
+		vrLen = 856;
+		vrLoc = 7970;
+	};
+	011F3E670B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: DEBUG_LOG";
+		rLen = 0;
+		rLoc = 1070;
+		rType = 0;
+		vrLen = 1357;
+		vrLoc = 1040;
+	};
+	011F3E680B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E690B5C2EA1003C7984 /* IOPCIATA.h */;
+		name = IOATAController;
+		rLen = 15;
+		rLoc = 2372;
+		rType = 0;
+		vrLen = 939;
+		vrLoc = 1995;
+	};
+	011F3E690B5C2EA1003C7984 /* IOPCIATA.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOPCIATA.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/ata/IOPCIATA.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1406, 3346}}";
+			sepNavSelRange = "{2372, 15}";
+			sepNavVisRect = "{{0, 1036}, {687, 503}}";
+		};
+	};
+	011F3E6A0B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = IOPCIATA;
+		rLen = 8;
+		rLoc = 1352;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 965;
+	};
+	011F3E6B0B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E6C0B5C2EA1003C7984 /* IOATAController.h */;
+		name = _selectedUnit;
+		rLen = 13;
+		rLoc = 5836;
+		rType = 0;
+		vrLen = 821;
+		vrLoc = 5410;
+	};
+	011F3E6C0B5C2EA1003C7984 /* IOATAController.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = IOATAController.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/ata/IOATAController.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {812, 5334}}";
+			sepNavSelRange = "{5836, 13}";
+			sepNavVisRect = "{{0, 3513}, {687, 503}}";
+		};
+	};
+	011F3E6D0B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 240";
+		rLen = 0;
+		rLoc = 6801;
+		rType = 0;
+		vrLen = 1384;
+		vrLoc = 5676;
+	};
+	011F3E6E0B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: synchronousIO";
+		rLen = 0;
+		rLoc = 10409;
+		rType = 0;
+		vrLen = 612;
+		vrLoc = 8417;
+	};
+	011F3E6F0B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: kMaxDriveCount";
+		rLen = 0;
+		rLoc = 2051;
+		rType = 0;
+		vrLen = 1257;
+		vrLoc = 1496;
+	};
+	011F3E700B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = kATASupportedUltraDMAModes;
+		rLen = 26;
+		rLoc = 9626;
+		rType = 0;
+		vrLen = 1291;
+		vrLoc = 7383;
+	};
+	011F3E710B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: DEBUG_LOG";
+		rLen = 0;
+		rLoc = 1070;
+		rType = 0;
+		vrLen = 1357;
+		vrLoc = 1040;
+	};
+	011F3E720B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = IOPCIATA;
+		rLen = 8;
+		rLoc = 1352;
+		rType = 0;
+		vrLen = 879;
+		vrLoc = 965;
+	};
+	011F3E730B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E740B5C2EA1003C7984 /* IOPCIATA.h */;
+		name = IOATAController;
+		rLen = 15;
+		rLoc = 2372;
+		rType = 0;
+		vrLen = 939;
+		vrLoc = 1995;
+	};
+	011F3E740B5C2EA1003C7984 /* IOPCIATA.h */ = {
+		isa = PBXFileReference;
+		name = IOPCIATA.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/ata/IOPCIATA.h;
+		sourceTree = "<absolute>";
+	};
+	011F3E750B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E760B5C2EA1003C7984 /* IOATAController.h */;
+		name = "(null): 329";
+		rLen = 0;
+		rLoc = 10464;
+		rType = 0;
+		vrLen = 1242;
+		vrLoc = 7647;
+	};
+	011F3E760B5C2EA1003C7984 /* IOATAController.h */ = {
+		isa = PBXFileReference;
+		name = IOATAController.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/ata/IOATAController.h;
+		sourceTree = "<absolute>";
+	};
+	011F3E770B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = configureTFPointers;
+		rLen = 19;
+		rLoc = 5479;
+		rType = 0;
+		vrLen = 863;
+		vrLoc = 5398;
+	};
+	011F3E780B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E790B5C2EA1003C7984 /* IOATAController.h */;
+		name = configureTFPointers;
+		rLen = 19;
+		rLoc = 10167;
+		rType = 0;
+		vrLen = 1329;
+		vrLoc = 9460;
+	};
+	011F3E790B5C2EA1003C7984 /* IOATAController.h */ = {
+		isa = PBXFileReference;
+		name = IOATAController.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/ata/IOATAController.h;
+		sourceTree = "<absolute>";
+	};
+	011F3E7A0B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E7B0B5C2EA1003C7984 /* IOATAController.h */;
+		name = "(null): 204";
+		rLen = 253;
+		rLoc = 5974;
+		rType = 0;
+		vrLen = 1282;
+		vrLoc = 5641;
+	};
+	011F3E7B0B5C2EA1003C7984 /* IOATAController.h */ = {
+		isa = PBXFileReference;
+		name = IOATAController.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/ata/IOATAController.h;
+		sourceTree = "<absolute>";
+	};
+	011F3E7C0B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 224";
+		rLen = 0;
+		rLoc = 6086;
+		rType = 0;
+		vrLen = 863;
+		vrLoc = 4033;
+	};
+	011F3E7D0B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E7E0B5C2EA1003C7984 /* IOATAController.h */;
+		name = _selectedUnit;
+		rLen = 13;
+		rLoc = 5836;
+		rType = 0;
+		vrLen = 900;
+		vrLoc = 5262;
+	};
+	011F3E7E0B5C2EA1003C7984 /* IOATAController.h */ = {
+		isa = PBXFileReference;
+		name = IOATAController.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/ata/IOATAController.h;
+		sourceTree = "<absolute>";
+	};
+	011F3E7F0B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3EFF42367911CA2CB7 /* nForceSATA.h */;
+		name = IOPCIATA;
+		rLen = 8;
+		rLoc = 1352;
+		rType = 0;
+		vrLen = 790;
+		vrLoc = 965;
+	};
+	011F3E800B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 240";
+		rLen = 0;
+		rLoc = 6801;
+		rType = 0;
+		vrLen = 1384;
+		vrLoc = 5676;
+	};
+	011F3E810B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E820B5C2EA1003C7984 /* IOATAController.h */;
+		name = _selectedUnit;
+		rLen = 13;
+		rLoc = 5836;
+		rType = 0;
+		vrLen = 821;
+		vrLoc = 5410;
+	};
+	011F3E820B5C2EA1003C7984 /* IOATAController.h */ = {
+		isa = PBXFileReference;
+		name = IOATAController.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/ata/IOATAController.h;
+		sourceTree = "<absolute>";
+	};
+	011F3E830B5C2EA1003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 246";
+		rLen = 0;
+		rLoc = 7075;
+		rType = 0;
+		vrLen = 1330;
+		vrLoc = 6265;
+	};
+	011F3E8A0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: 39";
+		rLen = 0;
+		rLoc = 1496;
+		rType = 0;
+		vrLen = 1162;
+		vrLoc = 839;
+	};
+	011F3E8B0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E8C0B5C4757003C7984 /* sata_nv.c */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 4413;
+	};
+	011F3E8C0B5C4757003C7984 /* sata_nv.c */ = {
+		isa = PBXFileReference;
+		name = sata_nv.c;
+		path = /Users/medevil/Sviluppo/sata_nv.c;
+		sourceTree = "<absolute>";
+	};
+	011F3E8D0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 217";
+		rLen = 0;
+		rLoc = 5867;
+		rType = 0;
+		vrLen = 1224;
+		vrLoc = 5616;
+	};
+	011F3E8E0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E8F0B5C4757003C7984 /* AppleVIAATADriver.cpp */;
+		name = "(null): 376";
+		rLen = 0;
+		rLoc = 12059;
+		rType = 0;
+		vrLen = 929;
+		vrLoc = 11756;
+	};
+	011F3E8F0B5C4757003C7984 /* AppleVIAATADriver.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = AppleVIAATADriver.cpp;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATADriver.cpp";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 20636}}";
+			sepNavSelRange = "{12059, 0}";
+			sepNavVisRect = "{{0, 1543}, {687, 503}}";
+		};
+	};
+	011F3E900B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E910B5C4757003C7984 /* AppleVIAATAHardware.h */;
+		name = "(null): 104";
+		rLen = 0;
+		rLoc = 3477;
+		rType = 0;
+		vrLen = 1331;
+		vrLoc = 1475;
+	};
+	011F3E910B5C4757003C7984 /* AppleVIAATAHardware.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AppleVIAATAHardware.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAHardware.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {687, 1988}}";
+			sepNavSelRange = "{3651, 4}";
+			sepNavVisRect = "{{0, 686}, {687, 503}}";
+		};
+	};
+	011F3E920B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E930B5C4757003C7984 /* AppleVIAATADriver.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1300;
+		vrLoc = 1042;
+	};
+	011F3E930B5C4757003C7984 /* AppleVIAATADriver.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AppleVIAATADriver.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATADriver.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {687, 2254}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 364}, {687, 503}}";
+		};
+	};
+	011F3E940B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E950B5C4757003C7984 /* AppleVIAATAChannel.cpp */;
+		name = "(null): 203";
+		rLen = 0;
+		rLoc = 5955;
+		rType = 0;
+		vrLen = 1035;
+		vrLoc = 5376;
+	};
+	011F3E950B5C4757003C7984 /* AppleVIAATAChannel.cpp */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATAChannel.cpp;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAChannel.cpp";
+		sourceTree = "<absolute>";
+	};
+	011F3E960B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E970B5C4757003C7984 /* AppleVIAATAChannel.h */;
+		name = fProvider;
+		rLen = 9;
+		rLoc = 1181;
+		rType = 0;
+		vrLen = 992;
+		vrLoc = 900;
+	};
+	011F3E970B5C4757003C7984 /* AppleVIAATAChannel.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AppleVIAATAChannel.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAChannel.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {687, 1204}}";
+			sepNavSelRange = "{1181, 9}";
+			sepNavVisRect = "{{0, 266}, {687, 503}}";
+		};
+	};
+	011F3E980B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E990B5C4757003C7984 /* AppleVIAATARoot.cpp */;
+		name = fProvider;
+		rLen = 9;
+		rLoc = 17708;
+		rType = 0;
+		vrLen = 732;
+		vrLoc = 17226;
+	};
+	011F3E990B5C4757003C7984 /* AppleVIAATARoot.cpp */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATARoot.cpp;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATARoot.cpp";
+		sourceTree = "<absolute>";
+	};
+	011F3E9A0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E9B0B5C4757003C7984 /* AppleVIAATARoot.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 896;
+	};
+	011F3E9B0B5C4757003C7984 /* AppleVIAATARoot.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = AppleVIAATARoot.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATARoot.h";
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {687, 1386}}";
+			sepNavSelRange = "{1161, 11}";
+			sepNavVisRect = "{{0, 252}, {687, 503}}";
+		};
+	};
+	011F3E9C0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = _selectedUnit;
+		rLen = 0;
+		rLoc = 7080;
+		rType = 0;
+		vrLen = 1307;
+		vrLoc = 5934;
+	};
+	011F3E9D0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: DEBUG_LOG";
+		rLen = 0;
+		rLoc = 1070;
+		rType = 0;
+		vrLen = 1269;
+		vrLoc = 999;
+	};
+	011F3E9E0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E9F0B5C4757003C7984 /* AppleVIAATAHardware.h */;
+		name = "(null): 104";
+		rLen = 0;
+		rLoc = 3477;
+		rType = 0;
+		vrLen = 1063;
+		vrLoc = 3121;
+	};
+	011F3E9F0B5C4757003C7984 /* AppleVIAATAHardware.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATAHardware.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAHardware.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EA00B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 246";
+		rLen = 0;
+		rLoc = 6870;
+		rType = 0;
+		vrLen = 1341;
+		vrLoc = 5934;
+	};
+	011F3EA10B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EA20B5C4757003C7984 /* AppleVIAATAHardware.h */;
+		name = "(null): 104";
+		rLen = 0;
+		rLoc = 3477;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 3121;
+	};
+	011F3EA20B5C4757003C7984 /* AppleVIAATAHardware.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATAHardware.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAHardware.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EA30B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 242";
+		rLen = 0;
+		rLoc = 6745;
+		rType = 0;
+		vrLen = 1362;
+		vrLoc = 6044;
+	};
+	011F3EA40B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EA50B5C4757003C7984 /* AppleVIAATAHardware.h */;
+		name = "(null): 104";
+		rLen = 0;
+		rLoc = 3477;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 3121;
+	};
+	011F3EA50B5C4757003C7984 /* AppleVIAATAHardware.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATAHardware.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAHardware.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EA60B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EA70B5C4757003C7984 /* AppleVIAATADriver.cpp */;
+		name = "(null): 128";
+		rLen = 0;
+		rLoc = 4104;
+		rType = 0;
+		vrLen = 1191;
+		vrLoc = 3550;
+	};
+	011F3EA70B5C4757003C7984 /* AppleVIAATADriver.cpp */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATADriver.cpp;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATADriver.cpp";
+		sourceTree = "<absolute>";
+	};
+	011F3EA80B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = _selectedUnit;
+		rLen = 0;
+		rLoc = 6760;
+		rType = 0;
+		vrLen = 1337;
+		vrLoc = 6088;
+	};
+	011F3EA90B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3D450B5A2C36003C7984 /* nForceSATAHardware.h */;
+		name = "nForceSATAHardware.h: 39";
+		rLen = 0;
+		rLoc = 1496;
+		rType = 0;
+		vrLen = 1162;
+		vrLoc = 839;
+	};
+	011F3EAA0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 243";
+		rLen = 0;
+		rLoc = 6805;
+		rType = 0;
+		vrLen = 1272;
+		vrLoc = 6069;
+	};
+	011F3EAB0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EAC0B5C4757003C7984 /* sata_nv.c */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 898;
+		vrLoc = 4413;
+	};
+	011F3EAC0B5C4757003C7984 /* sata_nv.c */ = {
+		isa = PBXFileReference;
+		name = sata_nv.c;
+		path = /Users/medevil/Sviluppo/sata_nv.c;
+		sourceTree = "<absolute>";
+	};
+	011F3EAD0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 243";
+		rLen = 0;
+		rLoc = 6805;
+		rType = 0;
+		vrLen = 1256;
+		vrLoc = 6085;
+	};
+	011F3EAE0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EAF0B5C4757003C7984 /* AppleVIAATAHardware.h */;
+		name = "(null): 104";
+		rLen = 0;
+		rLoc = 3477;
+		rType = 0;
+		vrLen = 1128;
+		vrLoc = 2981;
+	};
+	011F3EAF0B5C4757003C7984 /* AppleVIAATAHardware.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATAHardware.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAHardware.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EB00B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EB10B5C4757003C7984 /* AppleVIAATADriver.cpp */;
+		name = "AppleVIAATADriver::getBMBaseAddress";
+		rLen = 35;
+		rLoc = 11762;
+		rType = 0;
+		vrLen = 995;
+		vrLoc = 11608;
+	};
+	011F3EB10B5C4757003C7984 /* AppleVIAATADriver.cpp */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATADriver.cpp;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATADriver.cpp";
+		sourceTree = "<absolute>";
+	};
+	011F3EB20B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EB30B5C4757003C7984 /* AppleVIAATAHardware.h */;
+		name = "(null): 104";
+		rLen = 0;
+		rLoc = 3477;
+		rType = 0;
+		vrLen = 1366;
+		vrLoc = 1475;
+	};
+	011F3EB30B5C4757003C7984 /* AppleVIAATAHardware.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATAHardware.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAHardware.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EB40B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EB50B5C4757003C7984 /* AppleVIAATADriver.cpp */;
+		name = "(null): 376";
+		rLen = 0;
+		rLoc = 12059;
+		rType = 0;
+		vrLen = 1000;
+		vrLoc = 11756;
+	};
+	011F3EB50B5C4757003C7984 /* AppleVIAATADriver.cpp */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATADriver.cpp;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATADriver.cpp";
+		sourceTree = "<absolute>";
+	};
+	011F3EB60B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 217";
+		rLen = 0;
+		rLoc = 5867;
+		rType = 0;
+		vrLen = 1224;
+		vrLoc = 5616;
+	};
+	011F3EB70B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EB80B5C4757003C7984 /* AppleVIAATADriver.cpp */;
+		name = "(null): 376";
+		rLen = 0;
+		rLoc = 12059;
+		rType = 0;
+		vrLen = 929;
+		vrLoc = 11756;
+	};
+	011F3EB80B5C4757003C7984 /* AppleVIAATADriver.cpp */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATADriver.cpp;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATADriver.cpp";
+		sourceTree = "<absolute>";
+	};
+	011F3EB90B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EBA0B5C4757003C7984 /* AppleVIAATAHardware.h */;
+		name = "(null): 104";
+		rLen = 0;
+		rLoc = 3477;
+		rType = 0;
+		vrLen = 1331;
+		vrLoc = 1475;
+	};
+	011F3EBA0B5C4757003C7984 /* AppleVIAATAHardware.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATAHardware.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAHardware.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EBB0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EBC0B5C4757003C7984 /* AppleVIAATADriver.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1300;
+		vrLoc = 1042;
+	};
+	011F3EBC0B5C4757003C7984 /* AppleVIAATADriver.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATADriver.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATADriver.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EBD0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EBE0B5C4757003C7984 /* AppleVIAATAChannel.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1109;
+		vrLoc = 1731;
+	};
+	011F3EBE0B5C4757003C7984 /* AppleVIAATAChannel.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATAChannel.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAChannel.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EBF0B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EC00B5C4757003C7984 /* AppleVIAATAChannel.cpp */;
+		name = "(null): 203";
+		rLen = 0;
+		rLoc = 5955;
+		rType = 0;
+		vrLen = 1035;
+		vrLoc = 5376;
+	};
+	011F3EC00B5C4757003C7984 /* AppleVIAATAChannel.cpp */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATAChannel.cpp;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAChannel.cpp";
+		sourceTree = "<absolute>";
+	};
+	011F3EC10B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EC20B5C4757003C7984 /* AppleVIAATAChannel.h */;
+		name = fProvider;
+		rLen = 9;
+		rLoc = 1181;
+		rType = 0;
+		vrLen = 992;
+		vrLoc = 900;
+	};
+	011F3EC20B5C4757003C7984 /* AppleVIAATAChannel.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATAChannel.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATAChannel.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EC30B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EC40B5C4757003C7984 /* AppleVIAATARoot.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1199;
+		vrLoc = 446;
+	};
+	011F3EC40B5C4757003C7984 /* AppleVIAATARoot.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATARoot.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATARoot.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EC50B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EC60B5C4757003C7984 /* AppleVIAATARoot.cpp */;
+		name = fProvider;
+		rLen = 9;
+		rLoc = 17708;
+		rType = 0;
+		vrLen = 732;
+		vrLoc = 17226;
+	};
+	011F3EC60B5C4757003C7984 /* AppleVIAATARoot.cpp */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATARoot.cpp;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATARoot.cpp";
+		sourceTree = "<absolute>";
+	};
+	011F3EC70B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EC80B5C4757003C7984 /* AppleVIAATARoot.h */;
+		name = "(null): 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 896;
+	};
+	011F3EC80B5C4757003C7984 /* AppleVIAATARoot.h */ = {
+		isa = PBXFileReference;
+		name = AppleVIAATARoot.h;
+		path = "/Users/medevil/Sviluppo/AppleVIAATA-6/AppleVIAATARoot.h";
+		sourceTree = "<absolute>";
+	};
+	011F3EC90B5C4757003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E690B5C2EA1003C7984 /* IOPCIATA.h */;
+		name = IOATAController;
+		rLen = 15;
+		rLoc = 2372;
+		rType = 0;
+		vrLen = 917;
+		vrLoc = 1995;
+	};
+	011F3ECE0B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E930B5C4757003C7984 /* AppleVIAATADriver.h */;
+		name = "AppleVIAATADriver.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 1042;
+	};
+	011F3ECF0B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E970B5C4757003C7984 /* AppleVIAATAChannel.h */;
+		name = fProvider;
+		rLen = 9;
+		rLoc = 1181;
+		rType = 0;
+		vrLen = 991;
+		vrLoc = 900;
+	};
+	011F3ED00B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E9B0B5C4757003C7984 /* AppleVIAATARoot.h */;
+		name = IOPCIDevice;
+		rLen = 11;
+		rLoc = 1161;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 896;
+	};
+	011F3ED10B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3ED20B5C4AAB003C7984 /* IOPCIDevice.h */;
+		name = "class IOPCIDevice : public IOService";
+		rLen = 37;
+		rLoc = 9604;
+		rType = 0;
+		vrLen = 1797;
+		vrLoc = 12587;
+	};
+	011F3ED20B5C4AAB003C7984 /* IOPCIDevice.h */ = {
+		isa = PBXFileReference;
+		name = IOPCIDevice.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/pci/IOPCIDevice.h;
+		sourceTree = "<absolute>";
+	};
+	011F3ED30B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E690B5C2EA1003C7984 /* IOPCIATA.h */;
+		name = IOATAController;
+		rLen = 15;
+		rLoc = 2372;
+		rType = 0;
+		vrLen = 917;
+		vrLoc = 1995;
+	};
+	011F3ED40B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E6C0B5C2EA1003C7984 /* IOATAController.h */;
+		name = _selectedUnit;
+		rLen = 13;
+		rLoc = 5836;
+		rType = 0;
+		vrLen = 1277;
+		vrLoc = 7675;
+	};
+	011F3ED50B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E8F0B5C4757003C7984 /* AppleVIAATADriver.cpp */;
+		name = "AppleVIAATADriver.cpp: 376";
+		rLen = 0;
+		rLoc = 12059;
+		rType = 0;
+		vrLen = 1200;
+		vrLoc = 3490;
+	};
+	011F3ED60B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E910B5C4757003C7984 /* AppleVIAATAHardware.h */;
+		name = 0x04;
+		rLen = 4;
+		rLoc = 3651;
+		rType = 0;
+		vrLen = 1363;
+		vrLoc = 1478;
+	};
+	011F3ED70B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 217";
+		rLen = 0;
+		rLoc = 5867;
+		rType = 0;
+		vrLen = 1265;
+		vrLoc = 5678;
+	};
+	011F3ED80B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E690B5C2EA1003C7984 /* IOPCIATA.h */;
+		name = IOATAController;
+		rLen = 15;
+		rLoc = 2372;
+		rType = 0;
+		vrLen = 917;
+		vrLoc = 1995;
+	};
+	011F3ED90B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E930B5C4757003C7984 /* AppleVIAATADriver.h */;
+		name = "AppleVIAATADriver.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 1042;
+	};
+	011F3EDA0B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E970B5C4757003C7984 /* AppleVIAATAChannel.h */;
+		name = fProvider;
+		rLen = 9;
+		rLoc = 1181;
+		rType = 0;
+		vrLen = 991;
+		vrLoc = 900;
+	};
+	011F3EDB0B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E9B0B5C4757003C7984 /* AppleVIAATARoot.h */;
+		name = IOPCIDevice;
+		rLen = 11;
+		rLoc = 1161;
+		rType = 0;
+		vrLen = 1036;
+		vrLoc = 896;
+	};
+	011F3EDC0B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3EDD0B5C4AAB003C7984 /* IOPCIDevice.h */;
+		name = "class IOPCIDevice : public IOService";
+		rLen = 37;
+		rLoc = 9604;
+		rType = 0;
+		vrLen = 1797;
+		vrLoc = 12587;
+	};
+	011F3EDD0B5C4AAB003C7984 /* IOPCIDevice.h */ = {
+		isa = PBXFileReference;
+		name = IOPCIDevice.h;
+		path = /Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Kernel.framework/Versions/A/Headers/IOKit/pci/IOPCIDevice.h;
+		sourceTree = "<absolute>";
+	};
+	011F3EDE0B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E690B5C2EA1003C7984 /* IOPCIATA.h */;
+		name = IOATAController;
+		rLen = 15;
+		rLoc = 2372;
+		rType = 0;
+		vrLen = 917;
+		vrLoc = 1995;
+	};
+	011F3EDF0B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E6C0B5C2EA1003C7984 /* IOATAController.h */;
+		name = _selectedUnit;
+		rLen = 13;
+		rLoc = 5836;
+		rType = 0;
+		vrLen = 1277;
+		vrLoc = 7675;
+	};
+	011F3EE00B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 217";
+		rLen = 0;
+		rLoc = 5867;
+		rType = 0;
+		vrLen = 1265;
+		vrLoc = 5678;
+	};
+	011F3EE10B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E910B5C4757003C7984 /* AppleVIAATAHardware.h */;
+		name = 0x20;
+		rLen = 4;
+		rLoc = 2056;
+		rType = 0;
+		vrLen = 1267;
+		vrLoc = 1889;
+	};
+	011F3EE20B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E8F0B5C4757003C7984 /* AppleVIAATADriver.cpp */;
+		name = "AppleVIAATADriver.cpp: 376";
+		rLen = 0;
+		rLoc = 12059;
+		rType = 0;
+		vrLen = 1200;
+		vrLoc = 3490;
+	};
+	011F3EE30B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 011F3E910B5C4757003C7984 /* AppleVIAATAHardware.h */;
+		name = 0x04;
+		rLen = 4;
+		rLoc = 3651;
+		rType = 0;
+		vrLen = 1363;
+		vrLoc = 1478;
+	};
+	011F3EE40B5C4AAB003C7984 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */;
+		name = "nForceSATA.cpp: 242";
+		rLen = 0;
+		rLoc = 6725;
+		rType = 0;
+		vrLen = 1276;
+		vrLoc = 5864;
+	};
+	015263AE0B581E4300E6B723 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	015263AF0B581E4300E6B723 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = 32D94FC30562CBF700B6AF17 /* nForceSATA */;
+		addToTargets = (
+			32D94FC30562CBF700B6AF17 /* nForceSATA */,
+		);
+		breakpoints = (
+		);
+		breakpointsGroup = 011F3D760B5A3B4F003C7984 /* XCBreakpointsBucket */;
+		codeSenseManager = 015263AF0B581E4300E6B723 /* Code sense */;
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					210,
+					20,
+					110,
+					109,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 190473743;
+			PBXWorkspaceStateSaveDate = 190473743;
+		};
+		perUserProjectItems = {
+			011F3DFC0B5A644A003C7984 = 011F3DFC0B5A644A003C7984 /* PBXTextBookmark */;
+			011F3DFD0B5A644A003C7984 = 011F3DFD0B5A644A003C7984 /* PBXTextBookmark */;
+			011F3DFE0B5A644A003C7984 = 011F3DFE0B5A644A003C7984 /* PBXTextBookmark */;
+			011F3DFF0B5A644A003C7984 = 011F3DFF0B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E000B5A644A003C7984 = 011F3E000B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E010B5A644A003C7984 = 011F3E010B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E020B5A644A003C7984 = 011F3E020B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E030B5A644A003C7984 = 011F3E030B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E040B5A644A003C7984 = 011F3E040B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E050B5A644A003C7984 = 011F3E050B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E060B5A644A003C7984 = 011F3E060B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E070B5A644A003C7984 = 011F3E070B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E080B5A644A003C7984 = 011F3E080B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E090B5A644A003C7984 = 011F3E090B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E0A0B5A644A003C7984 = 011F3E0A0B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E0B0B5A644A003C7984 = 011F3E0B0B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E0C0B5A644A003C7984 = 011F3E0C0B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E0D0B5A644A003C7984 = 011F3E0D0B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E0E0B5A644A003C7984 = 011F3E0E0B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E0F0B5A644A003C7984 = 011F3E0F0B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E100B5A644A003C7984 = 011F3E100B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E110B5A644A003C7984 = 011F3E110B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E120B5A644A003C7984 = 011F3E120B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E130B5A644A003C7984 = 011F3E130B5A644A003C7984 /* PBXTextBookmark */;
+			011F3E3C0B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E3C0B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E3D0B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E3D0B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E3E0B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E3E0B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E3F0B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E3F0B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E400B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E400B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E410B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E410B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E420B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E420B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E430B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E430B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E440B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E440B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E450B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E450B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E460B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E460B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E470B5BFDE3003C7984 /* PBXTextBookmark */ = 011F3E470B5BFDE3003C7984 /* PBXTextBookmark */;
+			011F3E4A0B5BFFFF003C7984 /* PBXTextBookmark */ = 011F3E4A0B5BFFFF003C7984 /* PBXTextBookmark */;
+			011F3E670B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E670B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E680B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E680B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E6A0B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E6A0B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E6B0B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E6B0B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E6D0B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E6D0B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E6E0B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E6E0B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E6F0B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E6F0B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E700B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E700B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E710B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E710B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E720B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E720B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E730B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E730B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E750B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E750B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E770B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E770B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E780B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E780B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E7A0B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E7A0B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E7C0B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E7C0B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E7D0B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E7D0B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E7F0B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E7F0B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E800B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E800B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E810B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E810B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E830B5C2EA1003C7984 /* PBXTextBookmark */ = 011F3E830B5C2EA1003C7984 /* PBXTextBookmark */;
+			011F3E8A0B5C4757003C7984 /* PBXTextBookmark */ = 011F3E8A0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E8B0B5C4757003C7984 /* PBXTextBookmark */ = 011F3E8B0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E8D0B5C4757003C7984 /* PBXTextBookmark */ = 011F3E8D0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E8E0B5C4757003C7984 /* PBXTextBookmark */ = 011F3E8E0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E900B5C4757003C7984 /* PBXTextBookmark */ = 011F3E900B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E920B5C4757003C7984 /* PBXTextBookmark */ = 011F3E920B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E940B5C4757003C7984 /* PBXTextBookmark */ = 011F3E940B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E960B5C4757003C7984 /* PBXTextBookmark */ = 011F3E960B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E980B5C4757003C7984 /* PBXTextBookmark */ = 011F3E980B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E9A0B5C4757003C7984 /* PBXTextBookmark */ = 011F3E9A0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E9C0B5C4757003C7984 /* PBXTextBookmark */ = 011F3E9C0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E9D0B5C4757003C7984 /* PBXTextBookmark */ = 011F3E9D0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3E9E0B5C4757003C7984 /* PBXTextBookmark */ = 011F3E9E0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EA00B5C4757003C7984 /* PBXTextBookmark */ = 011F3EA00B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EA10B5C4757003C7984 /* PBXTextBookmark */ = 011F3EA10B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EA30B5C4757003C7984 /* PBXTextBookmark */ = 011F3EA30B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EA40B5C4757003C7984 /* PBXTextBookmark */ = 011F3EA40B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EA60B5C4757003C7984 /* PBXTextBookmark */ = 011F3EA60B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EA80B5C4757003C7984 /* PBXTextBookmark */ = 011F3EA80B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EA90B5C4757003C7984 /* PBXTextBookmark */ = 011F3EA90B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EAA0B5C4757003C7984 /* PBXTextBookmark */ = 011F3EAA0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EAB0B5C4757003C7984 /* PBXTextBookmark */ = 011F3EAB0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EAD0B5C4757003C7984 /* PBXTextBookmark */ = 011F3EAD0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EAE0B5C4757003C7984 /* PBXTextBookmark */ = 011F3EAE0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EB00B5C4757003C7984 /* PBXTextBookmark */ = 011F3EB00B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EB20B5C4757003C7984 /* PBXTextBookmark */ = 011F3EB20B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EB40B5C4757003C7984 /* PBXTextBookmark */ = 011F3EB40B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EB60B5C4757003C7984 /* PBXTextBookmark */ = 011F3EB60B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EB70B5C4757003C7984 /* PBXTextBookmark */ = 011F3EB70B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EB90B5C4757003C7984 /* PBXTextBookmark */ = 011F3EB90B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EBB0B5C4757003C7984 /* PBXTextBookmark */ = 011F3EBB0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EBD0B5C4757003C7984 /* PBXTextBookmark */ = 011F3EBD0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EBF0B5C4757003C7984 /* PBXTextBookmark */ = 011F3EBF0B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EC10B5C4757003C7984 /* PBXTextBookmark */ = 011F3EC10B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EC30B5C4757003C7984 /* PBXTextBookmark */ = 011F3EC30B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EC50B5C4757003C7984 /* PBXTextBookmark */ = 011F3EC50B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EC70B5C4757003C7984 /* PBXTextBookmark */ = 011F3EC70B5C4757003C7984 /* PBXTextBookmark */;
+			011F3EC90B5C4757003C7984 /* PBXTextBookmark */ = 011F3EC90B5C4757003C7984 /* PBXTextBookmark */;
+			011F3ECE0B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ECE0B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3ECF0B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ECF0B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3ED00B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ED00B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3ED10B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ED10B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3ED30B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ED30B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3ED40B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ED40B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3ED50B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ED50B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3ED60B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ED60B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3ED70B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ED70B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3ED80B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ED80B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3ED90B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3ED90B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3EDA0B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3EDA0B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3EDB0B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3EDB0B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3EDC0B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3EDC0B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3EDE0B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3EDE0B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3EDF0B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3EDF0B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3EE00B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3EE00B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3EE10B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3EE10B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3EE20B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3EE20B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3EE30B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3EE30B5C4AAB003C7984 /* PBXTextBookmark */;
+			011F3EE40B5C4AAB003C7984 /* PBXTextBookmark */ = 011F3EE40B5C4AAB003C7984 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 015263AE0B581E4300E6B723 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C167EFE841241C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 340}}";
+			sepNavSelRange = "{82, 0}";
+			sepNavVisRect = "{{0, 0}, {1023, 340}}";
+			sepNavWindowFrame = "{{15, 368}, {1062, 469}}";
+		};
+	};
+	1A224C3EFF42367911CA2CB7 /* nForceSATA.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {687, 1806}}";
+			sepNavSelRange = "{1352, 8}";
+			sepNavVisRect = "{{0, 280}, {687, 503}}";
+			sepNavWindowFrame = "{{132, 111}, {984, 639}}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* nForceSATA.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {740, 6440}}";
+			sepNavSelRange = "{6725, 0}";
+			sepNavVisRect = "{{0, 3013}, {687, 503}}";
+			sepNavWindowFrame = "{{150, 249}, {992, 429}}";
+		};
+	};
+	32D94FC30562CBF700B6AF17 /* nForceSATA */ = {
+		activeExec = 0;
+	};
+	32D94FCF0562CBF700B6AF17 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1023, 406}}";
+			sepNavSelRange = "{470, 0}";
+			sepNavVisRect = "{{0, 0}, {1023, 340}}";
+			sepNavWindowFrame = "{{84, 305}, {1062, 469}}";
+		};
+	};
+}

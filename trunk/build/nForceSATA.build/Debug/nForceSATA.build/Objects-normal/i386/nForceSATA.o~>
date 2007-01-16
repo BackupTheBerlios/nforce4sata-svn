@@ -1,0 +1,29 @@
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:77: error: 'UInt32' does not name a type
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:78: error: 'UInt32' does not name a type
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:79: error: 'UInt8' does not name a type
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:87: error: expected `}' before '{' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:87: error: too many initializers for 'nForceSATAChipset'
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:87: error: too many initializers for 'nForceSATAChipset'
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:87: error: too many initializers for 'nForceSATAChipset'
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:87: error: invalid conversion from 'int' to 'char*'
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:87: error: invalid conversion from 'int' to 'char*'
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:87: error: invalid conversion from 'int' to 'char*'
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:87: error: expected ',' or ';' before '{' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:87: error: expected unqualified-id before ',' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:88: error: expected unqualified-id before '{' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:88: error: expected unqualified-id before ',' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:89: error: expected unqualified-id before '{' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:89: error: expected unqualified-id before ',' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:90: error: expected unqualified-id before '{' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:90: error: expected unqualified-id before ',' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:91: error: expected unqualified-id before '{' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:91: error: expected unqualified-id before ',' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:92: error: expected unqualified-id before '{' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:92: error: expected unqualified-id before ',' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:93: error: expected unqualified-id before '{' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:93: error: expected unqualified-id before ',' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:94: error: expected unqualified-id before '{' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:94: error: expected unqualified-id before ',' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:95: error: expected unqualified-id before '{' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:96: error: expected declaration before '}' token
+/Users/medevil/Sviluppo/nForceSATA/nForceSATAHardware.h:83: warning: 'nforceChipsets' defined but not used
