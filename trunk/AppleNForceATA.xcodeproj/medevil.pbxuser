@@ -1,0 +1,234 @@
+// !$*UTF8*$!
+{
+	011086D90B6ACFF500A68A29 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 427B811B05D00D0C002E36B6 /* AppleNForceATA.h */;
+		name = "AppleNForceATA.h: fUltraModeMask";
+		rLen = 0;
+		rLoc = 2112;
+		rType = 0;
+		vrLen = 1472;
+		vrLoc = 1668;
+	};
+	011CD2000B6950C1004FC2FA /* AppleK2SATA.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = AppleK2SATA.cpp;
+		path = "/Users/medevil/Sviluppo/ATA/AppleK2SATA-104.3.2/AppleK2SATA.cpp";
+		sourceTree = "<absolute>";
+	};
+	011CD2020B6950C1004FC2FA /* AppleK2SATA.cpp:598 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		delayBeforeContinue = 0;
+		fileReference = 011CD2000B6950C1004FC2FA /* AppleK2SATA.cpp */;
+		functionName = "AppleK2SATA::interruptIsValid()";
+		hitCount = 0;
+		lineNumber = 598;
+		modificationTime = 191451329.667262;
+		state = 1;
+	};
+	01213C4B0B6AD1570005FA96 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 427B811C05D00D0C002E36B6 /* AppleNForceATA.cpp */;
+	};
+	01213C680B6AD3F70005FA96 /* PBXTargetBookmark */ = {
+		isa = PBXTargetBookmark;
+		trg = 089C1673FE841209C02AAC07 /* AppleNForceATA */;
+	};
+	01213C770B6AD5110005FA96 /* PBXTargetBookmark */ = {
+		isa = PBXTargetBookmark;
+		trg = 089C1673FE841209C02AAC07 /* AppleNForceATA */;
+		uiCtxt = {
+			TOCViewDetailVisibleRect = "{{0, 151}, {740, 440}}";
+			TOCViewExpandedItems = (
+				"com.apple.target-editor-pane.settings",
+				"com.apple.target-editor-pane.settings.simple",
+				"com.apple.target-editor-pane.info-plist",
+				"com.apple.target-editor-pane.info-plist.simple",
+				"com.apple.target-editor-pane.buildphases",
+			);
+			TOCViewMasterVisibleRect = "{{0, 0}, {297, 440}}";
+			TOCViewSelectedItems = (
+				PBXInfoPlistExpertSettingsEditorModule,
+			);
+		};
+	};
+	01213C780B6AD5110005FA96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 427B811C05D00D0C002E36B6 /* AppleNForceATA.cpp */;
+		name = "AppleNForceATA.cpp: 154";
+		rLen = 0;
+		rLoc = 5033;
+		rType = 0;
+		vrLen = 1368;
+		vrLoc = 4014;
+	};
+	01213C790B6AD5110005FA96 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 427B811B05D00D0C002E36B6 /* AppleNForceATA.h */;
+		name = "AppleNForceATA.h: 66";
+		rLen = 0;
+		rLoc = 2280;
+		rType = 0;
+		vrLen = 1441;
+		vrLoc = 1579;
+	};
+	01D8522B0B620C1300C91047 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	01D8522C0B620C1300C91047 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	01D852B00B6221EA00C91047 /* XCBreakpointsBucket */ = {
+		isa = XCBreakpointsBucket;
+		name = "Project Breakpoints";
+		objects = (
+			011CD2020B6950C1004FC2FA /* AppleK2SATA.cpp:598 */,
+		);
+	};
+	089C1669FE841209C02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Deployment;
+		activeTarget = 089C1673FE841209C02AAC07 /* AppleNForceATA */;
+		breakpoints = (
+			011CD2020B6950C1004FC2FA /* AppleK2SATA.cpp:598 */,
+		);
+		breakpointsGroup = 01D852B00B6221EA00C91047 /* XCBreakpointsBucket */;
+		codeSenseManager = 01D8522C0B620C1300C91047 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					63,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 191549689;
+			PBXWorkspaceStateSaveDate = 191549689;
+		};
+		perUserProjectItems = {
+			011086D90B6ACFF500A68A29 /* PBXTextBookmark */ = 011086D90B6ACFF500A68A29 /* PBXTextBookmark */;
+			01213C4B0B6AD1570005FA96 /* PBXBookmark */ = 01213C4B0B6AD1570005FA96 /* PBXBookmark */;
+			01213C680B6AD3F70005FA96 /* PBXTargetBookmark */ = 01213C680B6AD3F70005FA96 /* PBXTargetBookmark */;
+			01213C770B6AD5110005FA96 /* PBXTargetBookmark */ = 01213C770B6AD5110005FA96 /* PBXTargetBookmark */;
+			01213C780B6AD5110005FA96 /* PBXTextBookmark */ = 01213C780B6AD5110005FA96 /* PBXTextBookmark */;
+			01213C790B6AD5110005FA96 /* PBXTextBookmark */ = 01213C790B6AD5110005FA96 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 01D8522B0B620C1300C91047 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	089C1673FE841209C02AAC07 /* AppleNForceATA */ = {
+		activeExec = 0;
+	};
+	1A224C3EFF42367911CA2CB7 /* AppleNForceATARoot.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 1386}}";
+			sepNavSelRange = "{3354, 0}";
+			sepNavVisRect = "{{0, 836}, {850, 550}}";
+			sepNavWindowFrame = "{{84, 95}, {889, 679}}";
+		};
+	};
+	1A224C3FFF42367911CA2CB7 /* AppleNForceATARoot.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {850, 9240}}";
+			sepNavSelRange = "{11993, 0}";
+			sepNavVisRect = "{{0, 5460}, {850, 550}}";
+			sepNavWindowFrame = "{{144, 85}, {889, 679}}";
+		};
+	};
+	427B811B05D00D0C002E36B6 /* AppleNForceATA.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {762, 2604}}";
+			sepNavSelRange = "{2280, 0}";
+			sepNavVisRect = "{{0, 628}, {762, 554}}";
+			sepNavWindowFrame = "{{253, 122}, {801, 683}}";
+		};
+	};
+	427B811C05D00D0C002E36B6 /* AppleNForceATA.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {860, 28084}}";
+			sepNavSelRange = "{5033, 0}";
+			sepNavVisRect = "{{0, 1789}, {850, 550}}";
+			sepNavWindowFrame = "{{134, 124}, {889, 679}}";
+		};
+	};
+	427B812105D03550002E36B6 /* AppleNForceATATiming.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 2562}}";
+			sepNavSelRange = "{5190, 0}";
+			sepNavVisRect = "{{0, 2003}, {1014, 559}}";
+			sepNavWindowFrame = "{{101, 103}, {1053, 688}}";
+		};
+	};
+	F547B64505CEA49A003145B8 /* AppleNForceATAChannel.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {522, 1204}}";
+			sepNavSelRange = "{1001, 0}";
+			sepNavVisRect = "{{0, 91}, {522, 560}}";
+			sepNavWindowFrame = "{{38, 127}, {561, 689}}";
+		};
+	};
+	F547B64605CEA49A003145B8 /* AppleNForceATAChannel.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1014, 3500}}";
+			sepNavSelRange = "{4171, 67}";
+			sepNavVisRect = "{{0, 1562}, {1014, 559}}";
+			sepNavWindowFrame = "{{15, 149}, {1053, 688}}";
+		};
+	};
+	F554955305CD7DEF003B379E /* AppleNForceATAHardware.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {522, 2296}}";
+			sepNavSelRange = "{3424, 0}";
+			sepNavVisRect = "{{0, 1134}, {522, 560}}";
+			sepNavWindowFrame = "{{521, -51}, {561, 689}}";
+		};
+	};
+}
